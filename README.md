@@ -17,9 +17,8 @@
 ---
 
 ## 🛠️ Technologies & Tools  
-- **Languages**: C++, Python, MATLAB, and more.  
-- **Tools**: Git, VS Code, Arduino, and more.  
-- **Interests**: Machine Learning, Signal Processing, and IoT.  
+- **Languages**: C++, Python, and more.  
+- **Tools**: Git, VS Code, Arduino, and more.    
 
 ---
 
